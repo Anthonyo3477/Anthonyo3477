@@ -31,5 +31,13 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
 
 ----
 
+## Contacto
+- 📧 Email: [anthonyoverdugo55@gmail.com](mailto:anthonyoverdugo55@gmail.com)
+- 📝 GitHub: [@Anthonyo3477](https://github.com/Anthonyo3477)
+
+----
+
+
+
 ### ¡Gracias por visitar!
 Explora mis proyectos y si te interesa colaborar o dar feedback, ¡estaré encantado de conectarnos!

@@ -1,4 +1,8 @@
-# ¡Hola, soy Antonio Isaias Verdugo Dìaz!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anthonyo3477/Anthonyo3477/main/banner.png" alt="Banner de Anthonyo3477" />
+</p>
+
+# ¡Hola, soy Antonio Isaias Verdugo Díaz!
 
 Bienvenido a mi perfil de GitHub.  
 Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en **.NET y Android**. 
@@ -36,11 +40,16 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
 - 📝 GitHub: [@Anthonyo3477](https://github.com/Anthonyo3477)
 
 ----
+
 ### Proyectos Destacados
 
-- [Panadería: Sistema de gestión de panadería](https://github.com/Anthonyo3477/Panaderia) - Proyecto para administrar una panadería, con funcionalidades como ventas, inventario y gestión de productos.
-- [Proyecto Final .NET: Aplicación de gestión de proyectos](https://github.com/Anthonyo3477/Proyecto-final-.NET) - Proyecto final para una aplicación de gestión de proyectos desarrollada con .NET.
+- [Panadería: Sistema de gestión de panadería](https://github.com/Anthonyo3477/Panaderia)  
+  Proyecto para administrar una panadería, con funcionalidades como ventas, inventario y gestión de productos.
 
+- [Proyecto Final .NET: Aplicación de gestión de proyectos](https://github.com/Anthonyo3477/Proyecto-final-.NET)  
+  Proyecto final para una aplicación de gestión de proyectos desarrollada con .NET.
+
+----
 
 ### ¡Gracias por visitar!
 Explora mis proyectos y si te interesa colaborar o dar feedback, ¡estaré encantado de conectarnos!

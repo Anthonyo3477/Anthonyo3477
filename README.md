@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anthonyo3477/Anthonyo3477/main/banner2.png" alt="Banner de Anthonyo3477" />
+  <img src="https://raw.githubusercontent.com/Anthonyo3477/Anthonyo3477/main/banner.png" alt="Banner de Anthonyo3477" />
 </p>
 
 # ¡Hola, soy Antonio Isaias Verdugo Díaz!

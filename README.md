@@ -50,7 +50,7 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
   Proyecto final para una aplicación de gestión de proyectos desarrollada con .NET.
 
 - [Proyecto Android: Aplicacion Android para un Supermercado](https://github.com/Anthonyo3477/ScanStock.git) 
-  Proyecto en PRoceso de un Sistema para una bodega para un Supermercaedo
+  Proyecto en Proceso de un Sistema para una bodega para un Supermercaedo
 
 ----
 

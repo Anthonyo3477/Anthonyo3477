@@ -33,6 +33,10 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
   </tr>
 </table>
 
+### Actividad en GitHub
+
+![Snake animation](https://raw.githubusercontent.com/Anthonyo3477/Anthonyo3477/output/github-contribution-grid-snake.svg)
+
 ----
 
 ## Contacto
@@ -53,8 +57,6 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
   Proyecto en Proceso de un Sistema para una bodega para un Supermercaedo
 
 ----
-
-![Snake animation](https://github.com/Anthonyo3477/blob/output/github-contribution-grid-snake.svg)
 
 ### ¡Gracias por visitar!
 Explora mis proyectos y si te interesa colaborar o dar feedback, ¡estaré encantado de conectarnos!

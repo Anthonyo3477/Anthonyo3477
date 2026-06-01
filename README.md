@@ -34,9 +34,14 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
 </table>
 
 ### Actividad en GitHub
-
 ![Snake animation](https://raw.githubusercontent.com/Anthonyo3477/Anthonyo3477/output/github-contribution-grid-snake.svg)
 
+### Lenguajes más utilizados
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyo3477&layout=compact&theme=tokyonight" />
+
+### Logros
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anthonyo3477&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ----
 
 ## Contacto

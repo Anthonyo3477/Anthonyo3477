@@ -20,7 +20,8 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
 
 ### Estadísticas de GitHub y un toque visual:
 
-<h2 align="center">⚡Mis Estadísticas de GitHub ⚡</h2>
+<h2 align="center">⚡ Estadísticas de GitHub ⚡</h2>
+
 <br>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Anthonyo3477&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
@@ -30,7 +31,6 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
 <br><br>
   <img src="https://komarev.com/ghpvc/?username=Anthonyo3477&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </div>
-
 
 ### Actividad en GitHub
 ![Snake animation](https://raw.githubusercontent.com/Anthonyo3477/Anthonyo3477/output/github-contribution-grid-snake.svg)

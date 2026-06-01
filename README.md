@@ -25,7 +25,7 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
 <br>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Anthonyo3477&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Anthonyo3477&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Anthonyo3477&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"alt="GitHub Stats"/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyo3477&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" alt="Top Languages" />
   <img src="https://komarev.com/ghpvc/?username=Anthonyo3477&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </div>

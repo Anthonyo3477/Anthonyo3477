@@ -18,8 +18,6 @@ Soy desarrollador con enfoque en **Java**, **desarrollo web**, y aplicaciones en
 
 ----
 
-### Estadísticas de GitHub y un toque visual:
-
 <h2 align="center">⚡ Estadísticas de GitHub ⚡</h2>
 <br>
 <div align="center">
